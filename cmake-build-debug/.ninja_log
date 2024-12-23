@@ -1,0 +1,15 @@
+# ninja log v6
+11	3181	7512233732055600	CMakeFiles/Tools.dir/main.cpp.obj	527389059fd4a6f2
+21	5014	7463669526961095	CMakeFiles/Tools.dir/Sources/ToolBox/ToolBox.cpp.obj	3fee367a6694b806
+3181	3410	7512233763763613	Tools.exe	518edad5abe5822e
+17	3677	7512227447252542	CMakeFiles/Tools.dir/Sources/ToolBox/Files.cpp.obj	5ffeedbe64593448
+26	5514	7463669527013030	CMakeFiles/Tools.dir/Sources/ToolBox/Folders.cpp.obj	d9ac9b7a5b15b309
+37	4843	7463669527124010	CMakeFiles/Tools.dir/Sources/ToolBox/Texts.cpp.obj	1bb2b23dbbf0629a
+23	4547	7566664287252214	CMakeFiles/Tools.dir/main.cpp.obj	527389059fd4a6f2
+46	4641	7566664287481597	CMakeFiles/Tools.dir/Sources/ToolBox/Texts.cpp.obj	1bb2b23dbbf0629a
+31	4694	7566664287332053	CMakeFiles/Tools.dir/Sources/ToolBox/ToolBox.cpp.obj	3fee367a6694b806
+40	4828	7566664287421755	CMakeFiles/Tools.dir/Sources/ToolBox/Files.cpp.obj	5ffeedbe64593448
+36	5264	7566664287381863	CMakeFiles/Tools.dir/Sources/ToolBox/Folders.cpp.obj	d9ac9b7a5b15b309
+5264	5621	7566664339664161	Tools.exe	518edad5abe5822e
+11	2977	7566664521408575	CMakeFiles/Tools.dir/main.cpp.obj	527389059fd4a6f2
+2977	3198	7566664551073840	Tools.exe	518edad5abe5822e
